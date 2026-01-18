@@ -21,9 +21,6 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
   <a href="https://n8n.io/" target="_blank">
     <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white" alt="n8n" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  </a>
 </p>
 
 #### 🤖 Agentic Systems & Orchestration
