@@ -57,7 +57,7 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
   <p><b>Focusing on ROI-driven AI implementation. Let's connect.</b></p>
   
   <a href="https://www.linkedin.com/in/pablo-chivite-cort-2444202b1" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
+    <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="Connect" />
   </a>
 </div>
   
