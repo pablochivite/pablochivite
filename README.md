@@ -12,14 +12,7 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 * **🏗️ Venture Building:** This profile is my lab. Many repositories here are MVPs for my own entrepreneurial projects seeking Product-Market Fit.
 * **⚡ Rapid Prototyping:** I use **n8n** and low-code interfaces to rapidly validate value propositions.
 * **🧠 Business-Centric LLMOps:** I implement **RAGAS** & **LangFuse** to ensure the AI creates value, not just hallucinations, while optimizing token burn rates.
-
-### Connect with me 🤝:
-<p align="left">
-<a href="https://linkedin.com/in/tu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-</p>
-
 <br clear="all" />
-
 ---
 
 ### 🛠 Tech Stack & Tools
