@@ -19,7 +19,6 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 #### ⚡ Rapid Validation & Prototyping
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 #### 🤖 Agentic Systems & Orchestration
