@@ -3,17 +3,22 @@
 ## Applied AI & Automation | BBA + Data Analytics
 **Converting Business Logic into Autonomous Systems.**
 
-I bring **Business Strategy** and **Technical Execution** together. With a background in Business Administration and Data Analytics, I build AI solutions that are cost-efficient, scalable, and solved specific market problems.
+I bring **Business Strategy** and **Technical Execution** together. With a background in Business Administration and Data Analytics, I build AI solutions and entrepreneurial ventures that are cost-efficient, scalable, and solved specific market problems.
 
 ---
 
-### 🚀 The "Zero-to-One" Philosophy
-
 My approach is designed for the startup ecosystem: **Validate fast, scale later.**
 
-* **Rapid Prototyping:** I use **n8n** and low-code interfaces to validate value propositions in days, not months.
-* **Agentic Orchestration:** Moving beyond simple prompts to complex workflows using **LangGraph** and **Agno**.
-* **Business-Centric LLMOps:** I implement **RAGAS** and **LangFuse** to ensure the AI creates value, not just hallucinations, while optimizing token burn rates.
+* **🏗️ Venture Building:** This profile is my lab. Many repositories here are MVPs for my own entrepreneurial projects seeking Product-Market Fit.
+* **⚡ Rapid Prototyping:** I use **n8n** and low-code interfaces to rapidly validate value propositions.
+* **🧠 Business-Centric LLMOps:** I implement **RAGAS** & **LangFuse** to ensure the AI creates value, not just hallucinations, while optimizing token burn rates.
+
+### Connect with me 🤝:
+<p align="left">
+<a href="https://linkedin.com/in/tu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</p>
+
+<br clear="all" />
 
 ---
 
@@ -22,7 +27,6 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 #### ⚡ Rapid Validation & Prototyping
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prototyping-Interfaces-lightgrey?style=flat&logo=figma&logoColor=white" />
 </p>
 
 #### 🤖 Agentic Systems & Orchestration
@@ -59,7 +63,7 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 
 <div align="center">
   <p><b>Focusing on ROI-driven AI implementation. Let's connect.</b></p>
-  </div>## Hi there 👋
+  
 
 <!--
 **pablochivite/pablochivite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
