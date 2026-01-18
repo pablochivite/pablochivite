@@ -32,10 +32,8 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
     <img src="https://img.shields.io/badge/AutoGen-0066FF?style=flat&logo=microsoft&logoColor=white" alt="AutoGen" />
   </a>
   <a href="https://github.com/agno-ai" target="_blank">
-    <img src="https://img.shields.io/badge/Agno-333333?style=flat&logo=github&logoColor=white" alt="Agno" />
   </a>
   <a href="https://github.com/strands-ai" target="_blank">
-    <img src="https://img.shields.io/badge/Strands_Agents-FF4500?style=flat&logo=robotframework&logoColor=white" alt="Strands" />
   </a>
 </p>
 
