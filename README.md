@@ -18,68 +18,41 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 
 #### ⚡ Rapid Validation & Prototyping
 <p>
-  <a href="https://n8n.io/" target="_blank">
-    <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white" alt="n8n" />
-  </a>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 #### 🤖 Agentic Systems & Orchestration
 <p>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-1C2C33?style=flat&logo=python&logoColor=white" alt="LangGraph" />
-  </a>
-  <a href="https://microsoft.github.io/autogen/" target="_blank">
-    <img src="https://img.shields.io/badge/AutoGen-0066FF?style=flat&logo=microsoft&logoColor=white" alt="AutoGen" />
-  </a>
-  <a href="https://github.com/agno-ai" target="_blank">
-  </a>
-  <a href="https://github.com/strands-ai" target="_blank">
-  </a>
+  <img src="https://img.shields.io/badge/LangGraph-1C2C33?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-0066FF?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agno-333333?style=flat&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strands-Agents-FF4500?style=flat&logo=robot&logoColor=white" />
 </p>
 
 #### 🧠 Model Strategy (Performance vs. Cost)
 <p>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-  </a>
-  <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Anthropic" />
-  </a>
-  <a href="https://www.deepseek.com/" target="_blank">
-    <img src="https://img.shields.io/badge/DeepSeek-000000?style=flat&logo=github&logoColor=white" alt="DeepSeek" />
-  </a>
-  <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/" target="_blank">
-    <img src="https://img.shields.io/badge/NVIDIA_Nano-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  </a>
+  <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek_(OpenSource)-000000?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
 #### 📉 Evaluation & Observability (LLMOps)
 <p>
-  <a href="https://docs.ragas.io/" target="_blank">
-    <img src="https://img.shields.io/badge/RAGAS-FFD700?style=flat&logo=python&logoColor=black" alt="RAGAS" />
-  </a>
-  <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://img.shields.io/badge/LangSmith-1C2C33?style=flat&logo=chainlink&logoColor=white" alt="LangSmith" />
-  </a>
-  <a href="https://langfuse.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LangFuse-000000?style=flat&logo=github&logoColor=white" alt="LangFuse" />
-  </a>
-  <a href="https://mlflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLFlow" />
-  </a>
+  <img src="https://img.shields.io/badge/RAGAS-FFD700?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangSmith-1C2C33?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangFuse-000000?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" />
 </p>
 
 #### 🏗️ Scalability & Deployment
 <p>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  </a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 </p>
----
 
+---
 <div align="center">
   <p><b>Focusing on ROI-driven AI implementation. Let's connect.</b></p>
   
