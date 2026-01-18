@@ -1,7 +1,6 @@
 # Hi, I'm Pablo Chivite 👋
 
-## Applied AI & Automation | BBA + Data Analytics
-**Converting Business Logic into Autonomous Systems.**
+## BBA + Data Analytics | Applied AI & Automation 
 
 I bring **Business Strategy** and **Technical Execution** together. With a background in Business Administration and Data Analytics, I build AI solutions and entrepreneurial ventures that are cost-efficient, scalable, and solved specific market problems.
 
