@@ -2,7 +2,7 @@
 
 ## BBA + Data Analytics | Applied AI & Automation 
 
-I bring **Business Strategy** and **Technical Execution** together. With a background in Business Administration and Data Analytics, I build AI solutions and entrepreneurial ventures that are cost-efficient, scalable, and solved specific market problems.
+I combine **Business Strategy** and **Technical Execution**. With a background in Business Administration and Data Analytics, I build AI solutions and entrepreneurial ventures that are cost-efficient, scalable, and solved specific market problems.
 
 ---
 
@@ -55,6 +55,11 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 ---
 <div align="center">
   <p><b>Focusing on ROI-driven AI implementation. Let's connect.</b></p>
+  
+  <a href="https://www.linkedin.com/in/pablo-chivite-cort-2444202b1" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</div>
   
 
 <!--
