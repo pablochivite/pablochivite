@@ -53,7 +53,7 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 
 #### 💻 IDEs
 <p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-333333?style=flat&logo=cursor&logoColor=white" />
 </p>
 
 ---
