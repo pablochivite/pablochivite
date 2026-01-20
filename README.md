@@ -51,6 +51,11 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 </p>
 
+#### 💻 IDEs
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
+</p>
+
 ---
 <div align="center">
   <p><b>Focusing on ROI-driven AI implementation. Let's connect.</b></p>
