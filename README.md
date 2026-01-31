@@ -1,4 +1,4 @@
-# Hi, I'm Pablo Chivite 👋
+# Hi, I'm Pablo Chivite 🤝
 
 ## BBA + Data Analytics | Applied AI & Automation 
 
