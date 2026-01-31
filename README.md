@@ -2,15 +2,14 @@
 
 ## BBA + Data Analytics | Applied AI & Automation 
 
-I combine **Business Strategy** and **Technical Execution**. With a background in Business Administration and Data Analytics, I build AI solutions and entrepreneurial ventures that are cost-efficient, scalable, and solved specific market problems.
+I build AI-powered software as automations as MVPs for my entrepreneurial ventures and ideas that are cost-efficient, scalable, and solve specific market problems by combining **Business Strategy** and **Technical Execution**.
 
 ---
 
 My approach is designed for the startup ecosystem: **Validate fast, scale later.**
 
-* **🏗️ Venture Building:** Many repositories here are MVPs for my own entrepreneurial projects seeking Product-Market Fit.
+* **🏗️ Venture Building:** Many repositories here are MVPs for my own entrepreneurial projects/ideas.
 * **⚡ Rapid Prototyping:** I use **n8n** and low-code interfaces to rapidly validate value propositions.
-* **🧠 Business-Centric LLMOps:** I implement **RAGAS** & **LangFuse** to ensure the AI creates value while optimizing token burn rates.
 
 ---
 
@@ -33,15 +32,12 @@ My approach is designed for the startup ecosystem: **Validate fast, scale later.
 <p>
   <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek_(OpenSource)-000000?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
 #### 📉 Evaluation & Observability (LLMOps)
 <p>
   <img src="https://img.shields.io/badge/RAGAS-FFD700?style=flat&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/LangSmith-1C2C33?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangFuse-000000?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" />
 </p>
 
