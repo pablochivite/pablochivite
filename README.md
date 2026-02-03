@@ -2,7 +2,7 @@
 
 ## BBA + Data Analytics | Applied AI & Automation 
 
-I build AI-powered software and automations as MVPs for my entrepreneurial ventures and ideas that are cost-efficient, scalable, and solve specific market problems by combining **Business Strategy** and **Technical Execution**.
+I build AI-powered software and automations as MVPs for entrepreneurial ventures and ideas that are cost-efficient, scalable, and solve specific market problems by combining **Business Strategy** and **Technical Execution**.
 
 ---
 
