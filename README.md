@@ -2,14 +2,14 @@
 
 ## BBA + Data Analytics | Applied AI & Automation 
 
-I build AI-powered software as automations as MVPs for my entrepreneurial ventures and ideas that are cost-efficient, scalable, and solve specific market problems by combining **Business Strategy** and **Technical Execution**.
+I build AI-powered software and automations as MVPs for my entrepreneurial ventures and ideas that are cost-efficient, scalable, and solve specific market problems by combining **Business Strategy** and **Technical Execution**.
 
 ---
 
-My approach is designed for the startup ecosystem: **Validate fast, scale later.**
+My approach:
 
 * **🏗️ Venture Building:** Many repositories here are MVPs for my own entrepreneurial projects/ideas.
-* **⚡ Rapid Prototyping:** I use **n8n** and low-code interfaces to rapidly validate value propositions.
+* **⚙️ Prompt Engineering & Ops:** I implement systematic prompt design, versioning, and evaluation strategies to ensure reliability in agentic workflows.
 
 ---
 
