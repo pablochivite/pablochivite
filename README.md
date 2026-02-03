@@ -54,7 +54,7 @@ My approach:
 
 ---
 <div align="center">
-  <p><b></b> "Let's connect" </p>
+  <p><b></b></p>
   
   <a href="https://www.linkedin.com/in/pablo-chivite-cort-2444202b1" target="_blank">
     <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="Let's Connect" />
