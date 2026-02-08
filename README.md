@@ -35,11 +35,6 @@ My approach:
   <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" />
 </p>
 
-#### 🏗️ Scalability & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-
 #### 💻 IDEs
 <p>
   <img src="https://img.shields.io/badge/Cursor-333333?style=flat&logo=cursor&logoColor=white" />
