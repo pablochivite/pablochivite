@@ -28,12 +28,6 @@ My approach:
   <img src="https://img.shields.io/badge/Strands-Agents-FF4500?style=flat&logo=robot&logoColor=white" />
 </p>
 
-#### 🧠 Model Strategy (Performance vs. Cost)
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
-</p>
-
 #### 📉 Evaluation & Observability (LLMOps)
 <p>
   <img src="https://img.shields.io/badge/RAGAS-FFD700?style=flat&logo=python&logoColor=black" />
